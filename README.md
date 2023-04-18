@@ -1,19 +1,15 @@
-### Hi there 👋
+### Hi there👋
 
-<h1 align="center">Hi 👋, I'm Kamlesh Raut</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h1 align="center">I'm Kamlesh Raut</h1>
 <img align="right" alt="Coding" width="400" src="https://capturly.com/blog/wp-content/uploads/2018/02/Data-Website-Analytics.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raut22&label=Profile%20views&color=0e75b6&style=flat" alt="raut22" /> </p>
 
+- 👋 I’m A passionate Data Analyst from India
 - 🌱 I’m currently learning **Power BI, VBA & Macros**
-
-- 💬 Ask me about **SQL, Python, Excel**
-
+- 💬 Ask me about **SQL, Python, Excel & Tableau**
 - 📫 How to reach me **kamleshraut2207@gmail.com**
-
 - 📄 Know about my experiences [file:///C:/Kamlesh/Resume%20and%20CL/Kamlesh_Raut_resume.pdf](file:///C:/Kamlesh/Resume%20and%20CL/Kamlesh_Raut_resume.pdf)
-
 - ⚡ Fun fact **I am hilarious.**
 
 <h3 align="left">Connect with me:</h3>
