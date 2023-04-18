@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning **Power BI, VBA & Macros**
 - 💬 Ask me about **SQL, Python, Excel & Tableau**
 - 📫 How to reach me **kamleshraut2207@gmail.com**
-- 📄 Know about my experiences [file:///C:/Kamlesh/Resume%20and%20CL/Kamlesh_Raut_resume.pdf](file:///C:/Kamlesh/Resume%20and%20CL/Kamlesh_Raut_resume.pdf)
 - ⚡ Fun fact **I am hilarious.**
 
 <h3 align="left">Connect with me:</h3>
